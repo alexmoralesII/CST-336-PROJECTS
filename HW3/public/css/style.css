@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color:#FAF9F6 ;
+}
+#logoTitle img{
+    width: 100px;
+}
+
+#footer{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 200px;
+    color: white;
+    background-color:#FF1801;
+}
+#f1DriverImg{
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    background-image: url("../images/kimi.png");
+
+}
+#OverallStandings{
+    display: flex;
+    gap: 4rem;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+#selectDriver{
+    margin-top: 50px;
+    padding: 100px;
+}
+#selectDriverForm{
+    margin-top: 100px;
+}
+#nextRace{
+    margin-top: 150px;
+    font-size: xx-large;
+    text-align: center;
+    background-image: url("../images/f1Cal.png");
+}
+#DCL{
+    text-align: center;
+    font-weight: bold;
+    font-family: Didot;
+    margin-top: 50px;
+}
